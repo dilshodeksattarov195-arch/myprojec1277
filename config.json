@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionrave",
+        "uuid": 9663059,
+        "checksum": "rljvbs"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
